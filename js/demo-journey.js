@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Kitchen and bath remodels, carpentry, drywall, painting, and general home repair. Across Yorba Linda and Orange County. Aaron looks at the job first and puts the price in writing.';
+            'Kitchen and bath remodels, carpentry, drywall, painting, and general home repair in Yorba Linda. Aaron looks at the job first and puts the price in writing.';
         }
       }
     },
