@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Kitchen remodel, bathroom remodel, carpentry, drywall, painting, and general home repair for Yorba Linda and North OC homes. You get a fixed itemised quote before we start, Aaron as your named lead on site, and a twelve-month workmanship guarantee when we leave.';
+            'Kitchen and bath remodels, carpentry, drywall, painting, and general home repair. Across Yorba Linda and Orange County. Aaron looks at the job first and puts the price in writing.';
         }
       }
     },
@@ -65,7 +65,7 @@
       id: 'h1',
       apply: function () {
         if (heroH) {
-          heroH.innerHTML = 'Kitchens and baths,<br>quoted <em>before</em> we start.';
+          heroH.innerHTML = 'Home repair and remodels,<br>priced <em>first.</em>';
         }
       }
     },
@@ -73,7 +73,7 @@
       id: 'service',
       apply: function () {
         if (serviceFirst) {
-          serviceFirst.textContent = 'Kitchen remodel (written programme)';
+          serviceFirst.textContent = 'General home repair (written price)';
         }
       }
     }
